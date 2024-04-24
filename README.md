@@ -24,7 +24,7 @@ Coded according to the company's original [documentation](https://developer.fast
 Use composer
 
 ```
-composer require en1gma4/fastpay-bundle
+composer require en1gm4a/fastpay-bundle
 ```
 
 ## Usage
