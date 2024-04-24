@@ -1,0 +1,15 @@
+{
+    "name": "en1gm4a/fastpay-bundle",
+    "type": "library",
+    "require": {
+        "ext-curl": "*",
+        "php": "^8.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "En1gma4\\FastpayBundle\\": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
